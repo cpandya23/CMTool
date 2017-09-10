@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<requests>
+	<request id="1" name="L3 Request" >
+		<Requirements>Yes</Requirements>
+		<QueryTracker>No</QueryTracker>
+		<Estimations>No</Estimations>
+		<WorkOrder>No</WorkOrder>
+		<SOW>No</SOW>
+		<UTC>No</UTC>
+		<STC>No</STC>
+		<UATSignoff>Yes</UATSignoff>
+		<LaunchSignoff>Yes</LaunchSignoff>
+
+	</request>
+	
+	<request id="2"  name ="Work Request">
+		<Requirements>Yes</Requirements>
+		<QueryTracker>Yes</QueryTracker>
+		<Estimations>No</Estimations>
+		<WorkOrder>No</WorkOrder>
+		<SOW>No</SOW>
+		<UTC>Yes</UTC>
+		<STC>Yes</STC>
+		<UATSignoff>Yes</UATSignoff>
+		<LaunchSignoff>Yes</LaunchSignoff>
+
+	</request>
+	
+		<request id="3" name="Tier5">
+		<Requirements>Yes</Requirements>
+		<QueryTracker>Yes</QueryTracker>
+		<Estimations>Yes</Estimations>
+		<WorkOrder>Yes</WorkOrder>
+		<SOW>No</SOW>
+		<UTC>Yes</UTC>
+		<STC>Yes</STC>
+		<UATSignoff>Yes</UATSignoff>
+		<LaunchSignoff>Yes</LaunchSignoff>
+
+	</request>
+	
+			<request id="4" name="Tier4">
+		<Requirements>Yes</Requirements>
+		<QueryTracker>Yes</QueryTracker>
+		<Estimations>Yes</Estimations>
+		<WorkOrder>Yes</WorkOrder>
+		<SOW>No</SOW>
+		<UTC>Yes</UTC>
+		<STC>Yes</STC>
+		<UATSignoff>Yes</UATSignoff>
+		<LaunchSignoff>Yes</LaunchSignoff>
+
+	</request>
+	
+			<request id="5" name="Tier3">
+		<Requirements>Yes</Requirements>
+		<QueryTracker>Yes</QueryTracker>
+		<Estimations>Yes</Estimations>
+		<WorkOrder>No</WorkOrder>
+		<SOW>Yes</SOW>
+		<UTC>Yes</UTC>
+		<STC>Yes</STC>
+		<UATSignoff>Yes</UATSignoff>
+		<LaunchSignoff>Yes</LaunchSignoff>
+
+	</request>
+	
+			<request id="6" name="Tier2">
+		<Requirements>Yes</Requirements>
+		<QueryTracker>Yes</QueryTracker>
+		<Estimations>Yes</Estimations>
+		<WorkOrder>No</WorkOrder>
+		<SOW>Yes</SOW>
+		<UTC>Yes</UTC>
+		<STC>Yes</STC>
+		<UATSignoff>Yes</UATSignoff>
+		<LaunchSignoff>Yes</LaunchSignoff>
+
+	</request>
+	
+			<request id="7" name="Tier1">
+		<Requirements>Yes</Requirements>
+		<QueryTracker>Yes</QueryTracker>
+		<Estimations>Yes</Estimations>
+		<WorkOrder>No</WorkOrder>
+		<SOW>Yes</SOW>
+		<UTC>Yes</UTC>
+		<STC>Yes</STC>
+		<UATSignoff>Yes</UATSignoff>
+		<LaunchSignoff>Yes</LaunchSignoff>
+
+	</request>
+	
+	
+</requests>
